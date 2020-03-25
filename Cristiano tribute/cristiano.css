@@ -26,7 +26,8 @@ main{
    text-align: center;
    opacity: 1;
    padding: 20px 30px 20px 30px;
-   
+   margin:auto;
+  background-color:white;
 
 }
 .center{
@@ -37,9 +38,13 @@ main{
 #img-caption{
     font-family: monospace;
     text-align: center;
+  color:white;
+    background-color:black;
 }
 #tribute-info{
     font-family: 'Anton',sans-serif;
+    color:white;
+  background-color:black;
 }
 #bg{
     background-image: url("https://wallpapercave.com/wp/wp2736312.jpg");
