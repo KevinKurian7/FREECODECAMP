@@ -1,0 +1,52 @@
+main{
+    font-family: 'Anton',sans-serif;
+
+}
+#title{
+    background-color: #002851;
+    color:white ;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
+#image-div{
+  background-color: #DBDBDB;
+
+  margin: auto;
+  opacity: 0.89;
+  display: block;
+  
+
+
+}
+#image{
+   max-width: 80%;
+    display: block;
+    height: auto;
+   text-align: center;
+   opacity: 1;
+   padding: 20px 30px 20px 30px;
+   
+
+}
+.center{
+    display: block;
+     text-align: center;
+}
+
+#img-caption{
+    font-family: monospace;
+    text-align: center;
+}
+#tribute-info{
+    font-family: 'Anton',sans-serif;
+}
+#bg{
+    background-image: url("https://wallpapercave.com/wp/wp2736312.jpg");
+}
+#tribute-link{
+    font-family: sans-serif;
+    background-color: teal;
+    color: tomato;
+    padding: 0px 0px 20px 0px;
+}
