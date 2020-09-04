@@ -1,0 +1,64 @@
+#code{
+    background-color: black;
+    color: red;
+}
+*{
+    margin: 5px;
+    padding: 2px;
+}
+body{
+   background-color: rgb(226, 221, 221);
+}
+li{
+    list-style-type: none;
+    
+}
+#main-doc{
+  margin:auto;
+}
+
+li a{
+    text-decoration: none;
+    color: black;
+}
+
+@media screen and (min-width: 992px) { #header{
+   
+   
+ 
+    height:fit-content;
+    width: 100%;
+    overflow: hidden;
+   
+   
+}}
+#navbar{
+    position: fixed;
+    left: 2px;
+    top: 0;
+    margin: 2px;
+    padding: 4px;
+    border: 5px;
+    border-color: black;
+    
+}
+h2{
+    font-size: 30px;
+}
+h1{
+    font-size: 40px;
+}
+#main-doc{
+    position: relative;
+    left: 200px;
+}
+header{
+    font-size: 45px;
+    font-weight: 700;
+}
+*{
+  margin:5px;
+}
+.main-section{
+  margin-left:auto;
+}
