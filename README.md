@@ -1,2 +1,3 @@
-# FREECODECAMP
-My projects done for freecodecamp
+# Practice
+
+My projects done for personal development
